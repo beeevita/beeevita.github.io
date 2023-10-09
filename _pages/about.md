@@ -34,7 +34,7 @@ Experiences
 
                 </div>
                 Jan. 2023 - Present <br>
-                Advisor: Rui Wang, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
+                Advisor: <a href="https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao">Rui Wang</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
                 Interests: Prompt Learning, Machine Translation
             </td>
         </tr>
@@ -92,7 +92,7 @@ Honors
 
 Personal Interests
 ======
-I love music 🎵 (R&B, popular), singing 🎤 (popular music), coffee ☕️ and I spend most of my spare time on them! Feel free to contact with me if you are insterested too! 
+I love music 🎵 (R&B, popular), singing 🎤 (popular music), coffee ☕️ and I spend most of my spare time on them! Feel free to contact with me if you are insterested too!
 
  <div style="display: flex; align-items: center; justify-content: center;">
     <img src="images/image1.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image3.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image4.jpg" style="width:25%; margin: 0;height: 260px"><img src="images/image2.jpg" style="width:25%; margin: 0; height: 260px">
