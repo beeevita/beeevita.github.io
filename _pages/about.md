@@ -17,12 +17,19 @@ Experiences
 ## Education
 
 - Master student, Tsinghua University, Sept. 2022 - Jul. 2025
-- Bachelor of Engineering, Computer Science and Technology, Sept. 2018 - Jul. 2022
+- Bachelor of Engineering, Computer Science, Tianjin University, Sept. 2018 - Jul. 2022
 - Bachelor of Art, English Literature (double major), Tianjin University, Sept. 2020 - Jul. 2022
 
 ## Internships
+<head>  
+  <style>  
+    table, th, td {  
+      border: 0;  
+    }  
+  </style>  
+</head>  
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+<table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
         <tr>
             <td  style="padding:20px;width:20%;vertical-align:middle">
@@ -31,44 +38,38 @@ Experiences
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
                     Research Intern, Machine Learning Group, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">MicroSoft Research Asia</a>
-
-                </div>
+                Beijing, China</div>
                 Jan. 2023 - Present <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao">Rui Wang</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
                 Interests: Prompt Learning, Machine Translation
             </td>
         </tr>
+        <tr>
+            <td  style="padding:20px;width:20%;vertical-align:middle">
+                <img width="130" src="/images/baidu_logo.png">
+            </td>
+            <td style="margin-left:20px;width:80%;vertical-align:middle">
+                <div >
+                    MLE Intern, General Dialogue Group, Baidu Inc., Beijing, China
+                </div>
+                Mar. 2022 - Dec. 2022 <br>
+                Advisor: Zeyang Lei <br>
+                Interests: Dialogue Generation, Persona for Users
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:20px;width:20%;vertical-align:middle">
+                <img width="130" src="/images/didi_logo.png">
+            </td>
+            <td style="margin-left:20px;width:80%;vertical-align:middle">
+                <div >
+                    MLE Intern, Marketplace Technology, Didi Inc., Beijing, China
+                </div>
+                Nov. 2021 - Mar. 2022 <br>
+                Interests: Causal Inference, Time Series Forecasting
+            </td>
+        </tr>
     </tbody>
-    <tbody>
-    <tr>
-        <td  style="padding:20px;width:20%;vertical-align:middle">
-            <img width="130" src="/images/baidu_logo.png">
-        </td>
-        <td style="margin-left:20px;width:80%;vertical-align:middle">
-            <div >
-                MLE Intern, General Dialogue Group, Baidu Inc., Beijing, China.
-            </div>
-            Mar. 2022 - Dec. 2022 <br>
-            Advisor: Zeyang Lei <br>
-            Interests: Dialogue Generation, Persona for Users
-        </td>
-    </tr>
-
-</tbody>
-<tbody>
-    <tr>
-        <td  style="padding:20px;width:20%;vertical-align:middle">
-            <img width="130" src="/images/didi_logo.png">
-        </td>
-        <td style="margin-left:20px;width:80%;vertical-align:middle">
-            <div >
-                MLE Intern, Marketplace Technology, Didi Inc., Beijing, China.
-            </div>
-            Nov. 2021 - Mar. 2022 <br>
-            Interests: Causal Inference, Time series forecasting
-        </td>
-    </tr>
-</tbody>
 </table>
 
 ## Competitions
@@ -98,7 +99,7 @@ I love music 🎵 (R&B, popular), singing 🎤 (popular music), coffee ☕️ an
     <img src="images/image1.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image3.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image4.jpg" style="width:25%; margin: 0;height: 260px"><img src="images/image2.jpg" style="width:25%; margin: 0; height: 260px">
 </div>
 
-<!--
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0eHSe6-orAFVpUKZokMFuyObeBwgrjfXFgcRyB--78Q&cl=ffffff&w=a"></script>
--->
+
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=0eHSe6-orAFVpUKZokMFuyObeBwgrjfXFgcRyB--78Q&cl=ffffff&w=a"></script> -->
+
 <center>To be continued...</center>
