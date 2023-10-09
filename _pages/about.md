@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I am Qingyan Guo (郭清妍), an M.S. student at Tsinghua University, Shenzhen International Graduate School, supervised by [Prof. Yujiu Yang](https://sites.google.com/view/iigroup-thu/home). My current research interests mainly include large language models, prompt learning, etc.
+Hi, welcome to my website! I am Qingyan Guo (郭清妍), a 2nd-year master student at Tsinghua University, Shenzhen International Graduate School, supervised by [Prof. Yujiu Yang](https://sites.google.com/view/iigroup-thu/home). My current research interests mainly include large language models, prompt learning, etc.
 
 Prior to that, I did my undergrad at Tianjin University, where I double-majored in Computer Science and English Literature.
 
