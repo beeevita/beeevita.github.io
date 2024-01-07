@@ -78,6 +78,8 @@ Experiences
 
 Publications
 ======
+- [ICASSP 2023] Hint-enhanced In-Context Learning wakes Large Language Models up for knowledge-intensive tasks [[paper](https://arxiv.org/abs/2311.01949)]
+<br>Yifan Wang, **Qingyan Guo**, Xinzhe Ni, Chufan Shi, Lemao Liu, Haiyun Jiang, Yujiu Yang<br> <small>This work proposes a new paradigm called Hint-enhanced In-Context Learning (HICL) to leveraging LLMs' reasoning ability to extract query-related knowledge from demonstrations, to better elicit ICL ablity of LLMs.
 - [ArXiv 2023] Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers [[paper](https://arxiv.org/abs/2309.08532)] [[code]()]<br>**Qingyan Guo**\*, Rui Wang\*, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang<br> <small>This work proposes EvoPrompt, leveraging the strong natural language genetion capabilities of LLMs, as well as the efficient optimization performance of evolution algorithms. Without access to any internal parameters or gradients, EvoPrompt significantly outperforms human-engineered prompts and existing methods for automatic prompt generation.</small>
 
 * [ACL 2023] MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction [[paper](https://arxiv.org/abs/2305.12627)] [[code](https://github.com/ZubinGou/multi-view-prompting)]<br>Zhibin Gou\*, **Qingyan Guo**\*, Yujiu Yang<br><small>This work proposes MvP, a simple unified generative framework for structure prediction to leverage the intuition of human-like problem-solving processes from different views. MvP achieves state-of-the-art performance on 10 datasets across 4 ABSA tasks.</small>
