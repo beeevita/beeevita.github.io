@@ -16,7 +16,8 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
 
 ## Education
 
-- Master student, Artificial Intelligence, Tsinghua University, Sept. 2022 - Jul. 2025
+- Summer Intern, École Polytechnique Fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)), Jun. 2024 - Present
+- Master student, Artificial Intelligence, Tsinghua University, Sept. 2022 - Jul. 2025 (Expected)
 - Bachelor of Engineering, Computer Science, Tianjin University, Sept. 2018 - Jul. 2022
 - Bachelor of Art, English Literature (double major), Tianjin University, Sept. 2020 - Jul. 2022
 
@@ -32,6 +33,19 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
 
 <table style="width:100%;border:0;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tbody>
+        <tr>
+            <td  style="padding:20px;width:20%;vertical-align:middle">
+                <img width="130" src="/images/epfl_logo.png">
+            </td>
+            <td style="margin-left:20px;width:80%;vertical-align:middle">
+                <div >
+                    Summer Intern, , <a href="https://brbiclab.epfl.ch/">Brbic Lab</a>
+                </div>
+                Jun. 2024 - Present <br>
+                Advisor: <a href="https://cs.stanford.edu/~mbrbic/">Maria Brbic</a>, <a href="https://shawnfan19.github.io/">Shawn Fan</a><br>
+                Interests: Multi-modal single-cell foundation model
+            </td>
+        </tr>
         <tr>
             <td  style="padding:20px;width:20%;vertical-align:middle">
                 <img width="130" src="/images/ms_logo.png">
