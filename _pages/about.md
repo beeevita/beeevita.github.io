@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I am Qingyan Guo (郭清妍), a 2nd-year master student majoring in Artificial Intelligence at Tsinghua University, Shenzhen International Graduate School, supervised by [Prof. Yujiu Yang](https://sites.google.com/view/iigroup-thu/home). My current research interests mainly include large language models, prompt learning, etc.
+Hi, welcome to my website! I am Qingyan Guo (郭清妍), a 2nd-year master's student majoring in Artificial Intelligence at Tsinghua University, Shenzhen International Graduate School, supervised by [Prof. Yujiu Yang](https://sites.google.com/view/iigroup-thu/home). My current research interests mainly include large language models, prompt learning, etc.
 
 Prior to that, I did my undergrad at Tianjin University, where I double-majored in Computer Science and English Literature.
 
@@ -96,7 +96,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
 - [**ACL 2024 Findings**] Mitigating Reversal Curse in Large Language Models via Semantic-aware Permutation Training [[paper](https://arxiv.org/abs/2403.00758)] [[code](https://github.com/beeevita/SPT)]<br>**Qingyan Guo**\*, Rui Wang, Junliang Guo, Xu Tan, Jiang Bian, Yujiu Yang<br> <small>This work explores reversal curse which exists among many decoder-only large language models and poses a challenge to the advancement of artificial general intelligence (AGI), as it suggests a gap in the models' ability to comprehend and apply bidirectional reasoning. To address this issue, we propose Semantic-aware Permutation Training (SPT), by segmenting the training sentences into semantic units (i.e., entities or phrases) with an assistant language model and permuting these units before feeding into the model. SPT effectively mitigates the reversal curse of LLMs.</small>
 - [**ICLR  2024**] Connecting Large Language Models with Evolutionary Algorithms Yields Powerful Prompt Optimizers [[paper](https://arxiv.org/abs/2309.08532)] [[code](https://github.com/beeevita/EvoPrompt)]<br>**Qingyan Guo**\*, Rui Wang\*, Junliang Guo, Bei Li, Kaitao Song, Xu Tan, Guoqing Liu, Jiang Bian, Yujiu Yang<br> <small>This work proposes EvoPrompt, leveraging the strong natural language genetion capabilities of LLMs, as well as the efficient optimization performance of evolution algorithms. Without access to any internal parameters or gradients, EvoPrompt significantly outperforms human-engineered prompts and existing methods for automatic prompt generation.</small>
 - [**ICASSP 2023**] Hint-enhanced In-Context Learning wakes Large Language Models up for knowledge-intensive tasks [[paper](https://arxiv.org/abs/2311.01949)]
-  <br>Yifan Wang, **Qingyan Guo**, Xinzhe Ni, Chufan Shi, Lemao Liu, Haiyun Jiang, Yujiu Yang<br> <small>This work proposes a new paradigm called Hint-enhanced In-Context Learning (HICL) to leveraging LLMs' reasoning ability to extract query-related knowledge from demonstrations, to better elicit ICL ablity of LLMs.
+  <br>Yifan Wang, **Qingyan Guo**, Xinzhe Ni, Chufan Shi, Lemao Liu, Haiyun Jiang, Yujiu Yang<br> <small>This work proposes a new paradigm called Hint-enhanced In-Context Learning (HICL) to leveraging LLMs' reasoning ability to extract query-related knowledge from demonstrations, to better elicit ICL ability of LLMs.
 - [**ACL 2023 Main**] MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction [[paper](https://arxiv.org/abs/2305.12627)] [[code](https://github.com/ZubinGou/multi-view-prompting)]<br>Zhibin Gou\*, **Qingyan Guo**\*, Yujiu Yang<br><small>This work proposes MvP, a simple unified generative framework for structure prediction to leverage the intuition of human-like problem-solving processes from different views. MvP achieves state-of-the-art performance on 10 datasets across 4 ABSA tasks.</small>
 
 # Honors
@@ -110,7 +110,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
 
 # Personal Interests
 
-I love music 🎵 (R&B, popular), singing 🎤 (popular music), coffee ☕️ and I spend most of my spare time on them! Feel free to contact with me if you are insterested too!
+I love music 🎵 (R&B, popular), singing 🎤 (popular music), coffee ☕️ and I spend most of my spare time on them! Feel free to contact me if you are interested too!
 
  <div style="display: flex; align-items: center; justify-content: center;">
     <img src="images/image1.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image3.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image4.jpg" style="width:25%; margin: 0;height: 260px"><img src="images/image2.jpg" style="width:25%; margin: 0; height: 260px">
