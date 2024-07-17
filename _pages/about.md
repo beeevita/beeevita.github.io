@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I am Qingyan Guo (郭清妍), a 2nd-year master's student majoring in Artificial Intelligence at Tsinghua University, Shenzhen International Graduate School, supervised by [Prof. Yujiu Yang](https://sites.google.com/view/iigroup-thu/home). My current research interests mainly include large language models, prompt learning, etc.
+Hi, welcome to my website! I am Qingyan Guo (郭清妍), a 2nd-year master student majoring in Artificial Intelligence at Tsinghua University, Shenzhen International Graduate School, supervised by [Prof. Yujiu Yang](https://sites.google.com/view/iigroup-thu/home). My current research interests mainly include large language models, prompt learning, etc.
 
 Prior to that, I did my undergrad at Tianjin University, where I double-majored in Computer Science and English Literature.
 
@@ -39,7 +39,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
-                    Summer Intern, , <a href="https://brbiclab.epfl.ch/">Brbic Lab</a>
+                    Summer Intern, <a href="https://brbiclab.epfl.ch/">Brbic Lab</a>
                 </div>
                 Jun. 2024 - Present <br>
                 Advisor: <a href="https://cs.stanford.edu/~mbrbic/">Maria Brbic</a>, <a href="https://shawnfan19.github.io/">Shawn Fan</a><br>
