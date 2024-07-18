@@ -110,7 +110,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
 
 # Personal Interests
 
-I love music 🎵 (R&B, popular), singing 🎤 (popular music), coffee ☕️ and I spend most of my spare time on them! Feel free to contact me if you are interested too!
+I love music 🎵 (R&B, popular), singing 🎤 (popular music), coffee ☕️ and I spend most of my spare time on them! Feel free to contact me if you are interested too! 
 
  <div style="display: flex; align-items: center; justify-content: center;">
     <img src="images/image1.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image3.jpg" style="width:25%; margin: 0; height: 260px"><img src="images/image4.jpg" style="width:25%; margin: 0;height: 260px"><img src="images/image2.jpg" style="width:25%; margin: 0; height: 260px">
