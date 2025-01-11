@@ -16,7 +16,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
 
 ## Education
 
-- Summer Intern, École Polytechnique Fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)), Jun. 2024 - Present
+- Summer Intern, École Polytechnique Fédérale de Lausanne ([EPFL](https://www.epfl.ch/en/)), Jun. 2024 - Sept. 2024
 - Master student, Artificial Intelligence, Tsinghua University, Sept. 2022 - Jul. 2025 (Expected)
 - Bachelor of Engineering, Computer Science, Tianjin University, Sept. 2018 - Jul. 2022
 - Bachelor of Art, English Literature (double major), Tianjin University, Sept. 2020 - Jul. 2022
@@ -35,13 +35,25 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
     <tbody>
         <tr>
             <td  style="padding:20px;width:20%;vertical-align:middle">
+                <img width="130" src="/images/bytedance_logo.png">
+            </td>
+            <td style="margin-left:20px;width:80%;vertical-align:middle">
+                <div >
+                    Intern, ByteDance, Douyin (Beijing, China)
+                </div>
+                Sept. 2024 - Present <br>
+                Interests: Generative retrieval, applications of LLMs on search, retrieval, etc.
+            </td>
+        </tr>
+        <tr>
+            <td  style="padding:20px;width:20%;vertical-align:middle">
                 <img width="130" src="/images/epfl_logo.png">
             </td>
             <td style="margin-left:20px;width:80%;vertical-align:middle">
                 <div >
                     Summer Intern, <a href="https://brbiclab.epfl.ch/">Brbic Lab</a>
                 </div>
-                Jun. 2024 - Present <br>
+                Jun. 2024 - Sept. 2024 <br>
                 Advisor: <a href="https://cs.stanford.edu/~mbrbic/">Maria Brbic</a>, <a href="https://shawnfan19.github.io/">Shawn Fan</a><br>
                 Interests: Multi-modal single-cell foundation model
             </td>
@@ -54,7 +66,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
                 <div >
                     Research Intern, Machine Learning Group, <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/">MicroSoft Research Asia</a>
                 Beijing, China</div>
-                Jan. 2023 - Present <br>
+                Jan. 2023 - Jul. 2024 <br>
                 Advisor: <a href="https://scholar.google.com/citations?user=h1IrWikAAAAJ&hl=zh-CN&oi=ao">Rui Wang</a>, <a href="https://tan-xu.github.io/">Xu Tan</a><br>
                 Interests: Prompt Learning, Machine Translation
             </td>
