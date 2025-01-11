@@ -113,6 +113,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
 
 # Honors
 
+- National Scholarship, 2024
 - Outstanding Graduate, 2022
 - Outstanding Graduate Thesis, 2022
 - National Scholarship, 2020
