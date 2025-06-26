@@ -41,7 +41,7 @@ Prior to that, I did my undergrad at Tianjin University, where I double-majored 
                 <div >
                     Intern, ByteDance, Douyin (Beijing, China)
                 </div>
-                Sept. 2024 - Present <br>
+                Sept. 2024 - Feb. 2025 <br>
                 Interests: Generative retrieval, applications of LLMs on search, retrieval, etc.
             </td>
         </tr>
